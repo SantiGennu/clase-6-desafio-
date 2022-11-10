@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Raqueta",
+    "price": 5500,
+    "src": "/resources/img/product-images/Raqueta.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pelota",
+    "price": 1800,
+    "src": "/resources/img/product-images/Pelota.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Grip",
+    "price": 850,
+    "src": "/resources/img/product-images/Grip.jpg"
+  }
+  ]
